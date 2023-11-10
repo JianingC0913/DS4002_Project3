@@ -1,0 +1,82 @@
+Year,Label (Grouping),United States!!Median earnings (dollars) !!Total!!Estimate,United States!!Median earnings (dollars) !!Total!!Margin of Error,United States!!Median earnings (dollars) !!Male!!Estimate,United States!!Median earnings (dollars) !!Male!!Margin of Error,United States!!Median earnings (dollars) !!Female!!Estimate,United States!!Median earnings (dollars) !!Female!!Margin of Error,United States!!Women's earnings as a percentage of men's earnings!!Estimate,United States!!Women's earnings as a percentage of men's earnings!!Margin of Error
+2012,"Full-time, year-round workers 16 years and over with earnings",(X),(X),"47,473",±90,"37,412",±57,78.8%,±0.2
+2012,RACE AND HISPANIC OR LATINO ORIGIN,,,,,,,,
+2012,    One race--,,,,,,,,
+2012,        White,(X),(X),"50,533",±50,"39,073",±126,77.3%,±0.3
+2012,        Black or African American,(X),(X),"37,526",±351,"33,251",±267,88.6%,±1.1
+2012,        American Indian and Alaska Native,(X),(X),"35,868",±644,"31,060",±320,86.6%,±1.7
+2012,        Asian,(X),(X),"56,817",±576,"45,164",±498,79.5%,±1.1
+2012,        Native Hawaiian and Other Pacific Islander,(X),(X),"38,431","±1,564","34,312","±1,796",89.3%,±6.0
+2012,        Some other race,(X),(X),"29,377",±400,"26,330",±251,89.6%,±1.3
+2012,    Two or more races,(X),(X),"41,391",±314,"36,102",±393,87.2%,±1.1
+2012,Hispanic or Latino origin (of any race),(X),(X),"31,427",±91,"27,892",±256,88.8%,±0.7
+2012,"White alone, not Hispanic or Latino",(X),(X),"52,148",±53,"40,558",±60,77.8%,±0.1
+2012,EDUCATIONAL ATTAINMENT,,,,,,,,
+2012,Population 25 years and over with earnings,"35,160",±43,"41,054",±49,"29,703",±78,72.4%,±0.2
+2012,    Less than high school graduate,"19,404",±99,"22,216",±90,"14,867",±137,66.9%,±0.7
+2012,    High school graduate (includes equivalency),"27,024",±53,"32,009",±55,"21,759",±59,68.0%,±0.2
+2012,    Some college or associate's degree,"32,401",±45,"40,628",±78,"27,311",±58,67.2%,±0.2
+2012,    Bachelor's degree,"49,157",±204,"60,317",±130,"40,733",±90,67.5%,±0.2
+2012,    Graduate or professional degree,"65,164",±175,"81,505",±224,"54,390",±247,66.7%,±0.4
+2012,"Full-time, year-round civilian workers 16 years and over with earnings","42,229",±40,"47,887",±138,"37,483",±76,78.3%,±0.3
+2012,OCCUPATION,,,,,,,,
+2012,    Management occupations,"69,575",±555,"77,077",±265,"58,532",±498,75.9%,±0.6
+2012,    Business and financial operations occupations,"60,125",±195,"70,508",±344,"52,094",±189,73.9%,±0.4
+2012,    Computer and mathematical occupations,"75,799",±328,"79,047",±871,"67,464",±930,85.3%,±1.3
+2012,    Architecture and engineering occupations,"76,101",±381,"77,452",±621,"66,055",±731,85.3%,±1.0
+2012,"    Life, physical, and social science occupations","61,564",±467,"66,015","±1,141","56,727",±981,85.9%,±2.1
+2012,    Community and social services occupations,"41,435",±179,"42,369",±388,"40,905",±219,96.5%,±1.0
+2012,    Legal occupations,"81,061",±670,"115,399","±3,467","59,804","±1,226",51.8%,±1.8
+2012,"    Education, training, and library occupations","47,336",±157,"54,797",±463,"44,583",±245,81.4%,±0.8
+2012,"    Arts, design, entertainment, sports, and media occupations","50,238",±281,"52,285",±368,"45,064","±1,022",86.2%,±2.1
+2012,    Healthcare practitioner and technical occupations,"60,550",±142,"80,045","±1,213","55,793",±201,69.7%,±1.1
+2012,    Healthcare support occupations,"26,871",±119,"30,755",±334,"26,494",±132,86.1%,±1.1
+2012,    Protective service occupations,"48,836",±616,"50,997",±246,"40,411",±523,79.2%,±1.1
+2012,    Food preparation and serving related occupations,"20,930",±104,"22,102",±152,"19,415",±220,87.8%,±1.2
+2012,    Building and grounds cleaning and maintenance occupations,"25,031",±178,"27,496",±320,"20,679",±154,75.2%,±1.0
+2012,    Personal care and service occupations,"23,141",±192,"30,296",±374,"21,593",±122,71.3%,±1.0
+2012,    Sales and related occupations,"40,967",±118,"49,919",±408,"31,456",±130,63.0%,±0.6
+2012,    Office and administrative support occupations,"34,669",±108,"38,586",±381,"33,248",±123,86.2%,±1.0
+2012,"    Farming, fishing, and forestry occupations","24,370",±470,"25,720",±324,"18,811",±674,73.1%,±2.7
+2012,    Construction and extraction occupations,"40,058",±135,"40,093",±125,"37,152","±1,050",92.7%,±2.7
+2012,"    Installation, maintenance, and repair occupations","42,502",±310,"42,749",±401,"39,928","±1,387",93.4%,±3.6
+2012,    Production occupations,"35,300",±122,"39,078",±287,"26,340",±147,67.4%,±0.6
+2012,    Transportation occupations,"40,380",±164,"40,944",±170,"31,199",±411,76.2%,±1.0
+2012,    Material moving occupations,"28,500",±303,"30,198",±165,"23,791",±525,78.8%,±1.8
+2012,INDUSTRY,,,,,,,,
+2012,"    Agriculture, forestry, fishing and hunting","30,590",±227,"31,379",±226,"23,657",±974,75.4%,±3.1
+2012,"    Mining, quarrying, and oil and gas extraction","61,821",±431,"62,479","±1,587","51,803","±1,441",82.9%,±2.9
+2012,    Construction,"41,383",±112,"41,465",±117,"40,585",±357,97.9%,±0.9
+2012,    Manufacturing,"46,004",±156,"50,293",±108,"36,669",±194,72.9%,±0.4
+2012,    Wholesale trade,"45,543",±320,"47,853",±658,"40,197",±310,84.0%,±1.3
+2012,    Retail trade,"32,025",±88,"36,606",±173,"27,893",±251,76.2%,±0.7
+2012,    Transportation and warehousing,"46,814",±219,"48,971",±493,"41,005",±291,83.7%,±1.0
+2012,    Utilities,"62,432",±646,"67,077",±573,"50,900",±638,75.9%,±1.1
+2012,    Information,"55,088",±458,"61,271",±286,"47,206",±428,77.0%,±0.8
+2012,    Finance and insurance,"52,183",±158,"75,998",±363,"42,579",±320,56.0%,±0.5
+2012,    Real estate and rental and leasing,"41,839",±235,"45,072",±763,"40,128",±432,89.0%,±1.8
+2012,"    Professional, scientific, and technical services","67,327",±259,"80,782",±258,"51,828",±207,64.2%,±0.3
+2012,    Management of companies and enterprises,"67,277","±3,446","86,132","±7,646","52,157","±2,838",60.6%,±6.4
+2012,    Administrative and support and waste management services,"31,632",±146,"32,376",±230,"30,359",±194,93.8%,±0.9
+2012,    Educational services,"46,510",±147,"51,315",±146,"44,287",±254,86.3%,±0.5
+2012,    Health care and social assistance,"40,456",±110,"52,385",±285,"36,978",±123,70.6%,±0.5
+2012,"    Arts, entertainment, and recreation","34,633",±560,"36,889",±454,"31,326",±295,84.9%,±1.3
+2012,    Accommodation and food services,"23,228",±192,"25,572",±192,"21,276",±129,83.2%,±0.8
+2012,    Other services (except public administration),"31,974",±135,"36,607",±225,"27,285",±218,74.5%,±0.8
+2012,    Public administration,"53,191",±330,"60,618",±170,"46,328",±233,76.4%,±0.4
+2012,CLASS OF WORKER,,,,,,,,
+2012,    Employee of private company workers,"40,919",±49,"45,959",±98,"35,230",±63,76.7%,±0.2
+2012,    Self employed in own incorporated business workers,"55,152",±623,"61,041",±209,"41,851",±406,68.6%,±0.7
+2012,    Private not-for-profit wage and salary workers,"44,958",±278,"50,834",±226,"41,733",±151,82.1%,±0.5
+2012,    Local government workers,"47,467",±179,"51,954",±178,"43,715",±296,84.1%,±0.7
+2012,    State government workers,"46,532",±171,"51,697",±210,"42,609",±339,82.4%,±0.8
+2012,    Federal government workers,"60,701",±180,"62,512",±585,"55,951",±330,89.5%,±1.0
+2012,    Self employed in own not incorporated business workers and unpaid family workers,"31,980",±153,"37,002",±261,"24,684",±458,66.7%,±1.2
+2012,PERCENT IMPUTED,,,,,,,,
+2012,Earnings in the past 12 months,17.8%,(X),(X),(X),(X),(X),(X),(X)
+2012,    Race,1.7%,(X),(X),(X),(X),(X),(X),(X)
+2012,    Hispanic or Latino origin,2.1%,(X),(X),(X),(X),(X),(X),(X)
+2012,    Educational attainment,5.1%,(X),(X),(X),(X),(X),(X),(X)
+2012,    Occupation,6.8%,(X),(X),(X),(X),(X),(X),(X)
+2012,    Industry,6.4%,(X),(X),(X),(X),(X),(X),(X)
+2012,    Class of worker,5.9%,(X),(X),(X),(X),(X),(X),(X)
