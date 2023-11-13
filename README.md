@@ -46,6 +46,6 @@
 [3] F. D. Blau and L. M. Kahn, “The gender wage gap: Extent, trends, and explanations,” Journal of Economic Literature, vol. 55, no. 3, pp. 789–865, 2017. doi:10.1257/jel.20160995  
 
 
-Milestone 1: https://docs.google.com/document/d/156W1zDH757IzgDUspHkAnlrMiWvhUQRzYI9iKvXRE7c/edit?usp=sharing
-Milestone 2: https://docs.google.com/document/d/1Ptk0B4K9l_0sooEG_7M0EqeXB0zTofHoC3L4Lak7qdg/edit?usp=sharing
+Milestone 1: https://docs.google.com/document/d/156W1zDH757IzgDUspHkAnlrMiWvhUQRzYI9iKvXRE7c/edit?usp=sharing  
+Milestone 2: https://docs.google.com/document/d/1Ptk0B4K9l_0sooEG_7M0EqeXB0zTofHoC3L4Lak7qdg/edit?usp=sharing  
 
